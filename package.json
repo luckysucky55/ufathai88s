@@ -1,0 +1,14 @@
+{
+  "name": "ufathai",
+  "theme": "syntax",
+  "version": "0.1.1",
+  "description": "ufathai",
+  "keywords": [
+    "ufathai"
+  ],
+  "repository": "https://github.com/werunmarathon/saboho94",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
